@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/gmovie/static/js/main.1585d430.chunk.js",
+    "main.js.map": "/gmovie/static/js/main.1585d430.chunk.js.map",
+    "runtime-main.js": "/gmovie/static/js/runtime-main.28780227.js",
+    "runtime-main.js.map": "/gmovie/static/js/runtime-main.28780227.js.map",
+    "static/js/2.10362dee.chunk.js": "/gmovie/static/js/2.10362dee.chunk.js",
+    "static/js/2.10362dee.chunk.js.map": "/gmovie/static/js/2.10362dee.chunk.js.map",
+    "index.html": "/gmovie/index.html",
+    "precache-manifest.7f63ae83f8a432b2b009f2a2b03a322e.js": "/gmovie/precache-manifest.7f63ae83f8a432b2b009f2a2b03a322e.js",
+    "service-worker.js": "/gmovie/service-worker.js",
+    "static/js/2.10362dee.chunk.js.LICENSE.txt": "/gmovie/static/js/2.10362dee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28780227.js",
+    "static/js/2.10362dee.chunk.js",
+    "static/js/main.1585d430.chunk.js"
+  ]
+}
